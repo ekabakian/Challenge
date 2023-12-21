@@ -1,0 +1,30 @@
+[12:22:21] - INFO - *********************************************************
+[12:22:21] - INFO - Iniciando carga de country_wise_latest con Spark.
+[12:22:29] - INFO - El archivo nuevo tiene 187 registros.
+[12:22:30] - INFO - El archivo destino tiene 188 registros.
+[12:22:34] - INFO - Se actualizaron 2 registros y se insertaron 0 nuevos.
+[12:22:34] - INFO - *********************************************************
+[12:22:34] - INFO - Iniciando carga de covid_19_clean_complete con Spark.
+[12:22:36] - INFO - El archivo nuevo tiene 49068 registros.
+[12:22:36] - INFO - El archivo destino tiene 49069 registros.
+[12:22:41] - INFO - Se actualizaron 2 registros y se insertaron 0 nuevos.
+[12:22:41] - INFO - *********************************************************
+[12:22:41] - INFO - Iniciando carga de day_wise con Spark.
+[12:22:42] - INFO - El archivo nuevo tiene 188 registros.
+[12:22:42] - INFO - El archivo destino tiene 189 registros.
+[12:22:44] - INFO - Se actualizaron 2 registros y se insertaron 0 nuevos.
+[12:22:44] - INFO - *********************************************************
+[12:22:44] - INFO - Iniciando carga de full_grouped con Spark.
+[12:22:44] - INFO - El archivo nuevo tiene 35156 registros.
+[12:22:44] - INFO - El archivo destino tiene 35157 registros.
+[12:22:48] - INFO - Se actualizaron 2 registros y se insertaron 0 nuevos.
+[12:22:48] - INFO - *********************************************************
+[12:22:48] - INFO - Iniciando carga de usa_county_wise con Spark.
+[12:22:49] - INFO - El archivo nuevo tiene 627920 registros.
+[12:22:49] - INFO - El archivo destino tiene 627920 registros.
+[12:23:09] - INFO - Se actualizaron 0 registros y se insertaron 0 nuevos.
+[12:23:09] - INFO - *********************************************************
+[12:23:09] - INFO - Iniciando carga de worldometer_data con Spark.
+[12:23:09] - INFO - El archivo nuevo tiene 209 registros.
+[12:23:10] - INFO - El archivo destino tiene 210 registros.
+[12:23:12] - INFO - Se actualizaron 2 registros y se insertaron 0 nuevos.
